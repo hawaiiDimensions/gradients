@@ -1,0 +1,208 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 1.11.4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="19.904000135839031" minlon="-155.324801135407597" maxlat="19.949559562789322" maxlon="-155.269114104860705"/></metadata>              
+<wpt lat="19.92879611964382" lon="-155.280685299891388">
+  <name>mid2Lo_01</name>
+</wpt>
+<wpt lat="19.927663940996339" lon="-155.279364725074913">
+  <name>mid2Lo_02</name>
+</wpt>
+<wpt lat="19.92618840146622" lon="-155.278668870138091">
+  <name>mid2Lo_03</name>
+</wpt>
+<wpt lat="19.92436325773199" lon="-155.302330436783706">
+  <name>midHi_01</name>
+</wpt>
+<wpt lat="19.92524075860053" lon="-155.303495308048099">
+  <name>midHi_02</name>
+</wpt>
+<wpt lat="19.9263062480317" lon="-155.304859852758796">
+  <name>midHi_03</name>
+</wpt>
+<wpt lat="19.927340374009699" lon="-155.306157835470003">
+  <name>midHi_04</name>
+</wpt>
+<wpt lat="19.9282806637489" lon="-155.307589129592799">
+  <name>midHi_05</name>
+</wpt>
+<wpt lat="19.929252286526189" lon="-155.309053733641292">
+  <name>midHi_06</name>
+</wpt>
+<wpt lat="19.93019251154368" lon="-155.310385182869311">
+  <name>midHi_07</name>
+</wpt>
+<wpt lat="19.93103895375646" lon="-155.311916572100102">
+  <name>midHi_08</name>
+</wpt>
+<wpt lat="19.931952816972629" lon="-155.313426623531512">
+  <name>midHi_09</name>
+</wpt>
+<wpt lat="19.932740088183081" lon="-155.314781707575492">
+  <name>midHi_10</name>
+</wpt>
+<wpt lat="19.944575681164881" lon="-155.301156245045405">
+  <name>midLo_01</name>
+</wpt>
+<wpt lat="19.94360588674283" lon="-155.2998043664862">
+  <name>midLo_02</name>
+</wpt>
+<wpt lat="19.94251497581411" lon="-155.298420426208196">
+  <name>midLo_03</name>
+</wpt>
+<wpt lat="19.941545136326901" lon="-155.297004216699406">
+  <name>midLo_04</name>
+</wpt>
+<wpt lat="19.94042387206802" lon="-155.295523760530699">
+  <name>midLo_05</name>
+</wpt>
+<wpt lat="19.939181599500142" lon="-155.29417225613841">
+  <name>midLo_06</name>
+</wpt>
+<wpt lat="19.938151379681251" lon="-155.293013809281888">
+  <name>midLo_07</name>
+</wpt>
+<wpt lat="19.912533302103508" lon="-155.286710374423592">
+  <name>old2Hi_01</name>
+</wpt>
+<wpt lat="19.911126408893882" lon="-155.28560640078129">
+  <name>old2Hi_02</name>
+</wpt>
+<wpt lat="19.909872130559929" lon="-155.284274739697906">
+  <name>old2Hi_03</name>
+</wpt>
+<wpt lat="19.90861793174496" lon="-155.283073115604395">
+  <name>old2Hi_04</name>
+</wpt>
+<wpt lat="19.907119504591719" lon="-155.282261816693989">
+  <name>old2Hi_05</name>
+</wpt>
+<wpt lat="19.905407011563199" lon="-155.281385696700511">
+  <name>old2Hi_06</name>
+</wpt>
+<wpt lat="19.904000135839031" lon="-155.280509281350788">
+  <name>old2Hi_07</name>
+</wpt>
+<wpt lat="19.92543889901112" lon="-155.278218635871809">
+  <name>old2Lo_01</name>
+</wpt>
+<wpt lat="19.924058258260889" lon="-155.276957362175011">
+  <name>old2Lo_02</name>
+</wpt>
+<wpt lat="19.922902003412538" lon="-155.275491133381507">
+  <name>old2Lo_03</name>
+</wpt>
+<wpt lat="19.921617366838301" lon="-155.273990916160386">
+  <name>old2Lo_04</name>
+</wpt>
+<wpt lat="19.92049305333574" lon="-155.272422288667997">
+  <name>old2Lo_05</name>
+</wpt>
+<wpt lat="19.919593256159342" lon="-155.27081929919791">
+  <name>old2Lo_06</name>
+</wpt>
+<wpt lat="19.918500823217641" lon="-155.269114104860705">
+  <name>old2Lo_07</name>
+</wpt>
+<wpt lat="19.933546288544051" lon="-155.315911118071512">
+  <name>oldHi_01</name>
+</wpt>
+<wpt lat="19.934236085663581" lon="-155.317409354931897">
+  <name>oldHi_02</name>
+</wpt>
+<wpt lat="19.934706714069289" lon="-155.318907785106802">
+  <name>oldHi_03</name>
+</wpt>
+<wpt lat="19.935646887479109" lon="-155.320239397082901">
+  <name>oldHi_04</name>
+</wpt>
+<wpt lat="19.936618472064009" lon="-155.321704271603409">
+  <name>oldHi_05</name>
+</wpt>
+<wpt lat="19.937308360834219" lon="-155.323302632721095">
+  <name>oldHi_06</name>
+</wpt>
+<wpt lat="19.937998196595078" lon="-155.324801135407597">
+  <name>oldHi_07</name>
+</wpt>
+<wpt lat="19.945074043172241" lon="-155.301933076970187">
+  <name>oldLo_01</name>
+</wpt>
+<wpt lat="19.946044384483919" lon="-155.303461113719408">
+  <name>oldLo_02</name>
+</wpt>
+<wpt lat="19.94721510503669" lon="-155.304775704332997">
+  <name>oldLo_03</name>
+</wpt>
+<wpt lat="19.948185460628341" lon="-155.306303834137907">
+  <name>oldLo_04</name>
+</wpt>
+<wpt lat="19.948621194006709" lon="-155.308010212351803">
+  <name>oldLo_05</name>
+</wpt>
+<wpt lat="19.949056928051981" lon="-155.309716645438101">
+  <name>oldLo_06</name>
+</wpt>
+<wpt lat="19.949559562789322" lon="-155.311494211198095">
+  <name>oldLo_07</name>
+</wpt>
+<wpt lat="19.92386165282285" lon="-155.301498249351511">
+  <name>yngHi_01</name>
+</wpt>
+<wpt lat="19.92323415078388" lon="-155.299733713881608">
+  <name>yngHi_02</name>
+</wpt>
+<wpt lat="19.922168438719812" lon="-155.298136099570911">
+  <name>yngHi_03</name>
+</wpt>
+<wpt lat="19.921165413554689" lon="-155.29663837161911">
+  <name>yngHi_04</name>
+</wpt>
+<wpt lat="19.920443978697531" lon="-155.294907310411503">
+  <name>yngHi_05</name>
+</wpt>
+<wpt lat="19.92006687216233" lon="-155.293109354179592">
+  <name>yngHi_06</name>
+</wpt>
+<wpt lat="19.91865068619607" lon="-155.292166401354507">
+  <name>yngHi_07</name>
+</wpt>
+<wpt lat="19.917457574064759" lon="-155.290834536435312">
+  <name>yngHi_08</name>
+</wpt>
+<wpt lat="19.916539658333029" lon="-155.289632502300407">
+  <name>yngHi_09</name>
+</wpt>
+<wpt lat="19.915438380255029" lon="-155.288463170148191">
+  <name>yngHi_10</name>
+</wpt>
+<wpt lat="19.914001099570321" lon="-155.287554240405314">
+  <name>yngHi_11</name>
+</wpt>
+<wpt lat="19.93769673544973" lon="-155.292434419577887">
+  <name>yngLo_01</name>
+</wpt>
+<wpt lat="19.93678745912089" lon="-155.291114830463897">
+  <name>yngLo_02</name>
+</wpt>
+<wpt lat="19.935878389913881" lon="-155.290052906183206">
+  <name>yngLo_03</name>
+</wpt>
+<wpt lat="19.934969112718019" lon="-155.288733374769805">
+  <name>yngLo_04</name>
+</wpt>
+<wpt lat="19.934120298090079" lon="-155.287317200486598">
+  <name>yngLo_05</name>
+</wpt>
+<wpt lat="19.932938643969969" lon="-155.286126774875299">
+  <name>yngLo_06</name>
+</wpt>
+<wpt lat="19.931719662471981" lon="-155.284707915730706">
+  <name>yngLo_07</name>
+</wpt>
+<wpt lat="19.93049668036566" lon="-155.283187627208406">
+  <name>yngLo_08</name>
+</wpt>
+<wpt lat="19.92954198881986" lon="-155.281793919225009">
+  <name>yngLo_09</name>
+</wpt>
+</gpx>
